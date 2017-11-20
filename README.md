@@ -1,4 +1,4 @@
-# VueJS Tareas
+# AngularJS Tareas
 
 > A AngularJS project
 
